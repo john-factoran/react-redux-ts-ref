@@ -1,1 +1,2 @@
-# Simple bank app that demonstrates react-redux functionality written in typscript, for REFERENCE PURPOSE ONLY
+# Simple bank app that demonstrates react-redux functionality written in typscript, 
+# for REFERENCE PURPOSE ONLY
